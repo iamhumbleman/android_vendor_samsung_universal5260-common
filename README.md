@@ -1,0 +1,1 @@
+# android_vendor_samsung_universal5260-common
